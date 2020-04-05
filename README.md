@@ -1,6 +1,6 @@
 # @kalafina/eslint-config
 
-forked from [kalafina's awesome eslint-config 🚀](https://github.com/kalafina/eslint-config)
+forked from [whatasoda's awesome eslint-config 🚀](https://github.com/whatasoda/eslint-config)
 
 ## Install package
 
