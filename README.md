@@ -1,13 +1,15 @@
-# @whatasoda/eslint-config
+# @kalafina/eslint-config
 
-whatasoda's awesome eslint-config 🚀
+forked from [kalafina's awesome eslint-config 🚀](https://github.com/kalafina/eslint-config)
 
 ## Install package
+
 ```sh
-npm i -D @whatasoda/eslint-config
+npm i -D @kalafina/eslint-config
 ```
 
 ## Install peer dependencies
+
 ```sh
 # required
 npm i -D typescript
@@ -16,13 +18,15 @@ npm i react
 ```
 
 ## Usage
+
 .eslintrc.js
+
 ```js
 module.exports = {
-  extends: ['@whatasoda'],
+  extends: ['@kalafina'],
   parserOptions: {
     project: './tsconfig.json',
-    tsconfigRootDir: '.',
+    tsconfigRootDir: '.'
   }
-}
+};
 ```
